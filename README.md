@@ -13,12 +13,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I built this project as a test of my skills and as part of my time teaching students the fundamentals of web design. I decided to stick to vanilla js, html, and css to make it easily approachable even for a beginner. This was intend as an introduction to using advanced mathmatics inside our code.
+I built this project as a test of my skills and as part of my time teaching students the fundamentals of web design. I decided to stick to vanilla js, html, and css to make it easily approachable even for a beginner. This was intended as an introduction to using advanced mathmatics inside our code.
 <!-- GETTING STARTED -->
 ## Getting Started
 
 This project uses a simple html file. Just open it in any browser.
-Click the node button to draw nodes, clcik the strut button and then two nodes to connect them. Build your 2d frame and click play to watch it smash to the ground.
+Click the node button to draw nodes, click the strut button and then two nodes to connect them. Build your 2D frame and click play to watch it smash to the ground!
 
 ### Installation
 Simply get the repo and open it in the browser.
